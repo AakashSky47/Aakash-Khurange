@@ -1,5 +1,9 @@
+<!-- Typing SVG — copy this into your README.md -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=800&color=0A2540&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Aakash+Khurange" alt="Typing SVG">
+
 # 👋 Hi, I'm Aakash Khurange  
-### 💼 Manual & Automation Tester  
+### 💼 Manual & Automation Tester
+
 ### 🔍 Passionate about Quality | Java | Selenium | TestNG | SQL | API Testing
 
 ---
